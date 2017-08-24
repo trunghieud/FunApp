@@ -1,4 +1,4 @@
-# Basic Project
+# FunApp
 
 *Structure for creating a Basic project.*
 
